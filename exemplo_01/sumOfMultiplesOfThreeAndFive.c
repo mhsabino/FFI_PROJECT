@@ -23,7 +23,7 @@ int isMultipleOfFive(number) {
   return ((number % 5) == 0);
 }
 
-int isNaturalNumber(number) {
+int isPrimeNumber(number) {
   int i = 1;
   int naturalNumber = 0;
 
